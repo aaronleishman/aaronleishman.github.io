@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aaron Leishman's Portfolio"
+title                    : "Aaron Leishman Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aaron Leishman"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Aaron Leishman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Business Professional & Software Developer "
-  location         : "Somewhere"
+  bio              : "App Developer & Analyst "
+  location         : "Iowa"
   email            :
   links:
     - label: "Email"
@@ -138,15 +138,18 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/aaronleishman"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/aaronleishman"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/aaronleishman"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
