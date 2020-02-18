@@ -5,8 +5,8 @@ permalink: /chilli/
 
 Serving Size 8  
 
-What you need: | 
-----------
+What you need: |         
+--------------- | --------------
 2 lb. pork sausage | 1 onion chopped
 1 can (15.5 oz.) Dark kidney beans, rinsed | 1 cup of frozen corn
 1 can (15.5 oz.) Light kidney beans, rinsed | 4 Tbsp chilli power
