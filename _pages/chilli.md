@@ -27,7 +27,7 @@ Brown the meat. |
 Drain the grease from the meat. |
 Spoon the meat into the slow cooker |
 Add all the remaining ingredients into the slow cooker |
-Mix the ingredients together in the slow cooker
+Mix the ingredients together in the slow cooker |
 Cover with lid |
 Cook on LOW 5 to 6 hours (or on HIGH 3 to 4 hours) |
 While it is cooking stir the chili every 30 to 60 minutes |
