@@ -19,7 +19,7 @@ What you need: |
 1 chopped green bell pepper |
 1 chopped red bell pepper |
 4 Tbsp chili power |
-6 quart or larger slow cooker
+6 quart or larger slow cooker |
 
 Instructions: |
 ----------- | -
@@ -33,7 +33,7 @@ Cook on LOW 5 to 6 hours (or on HIGH 3 to 4 hours) |
 While it is cooking stir the chili every 30 to 60 minutes |
 
 
-Optional to Serve with the Chili|  
+Optional to Serve with the Chili |  
 ------------ | -
 Finely Shredded Cheese |
 Corn Chips  |
