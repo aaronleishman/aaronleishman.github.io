@@ -21,7 +21,7 @@ What you need: |
 4 Tbsp chili power |
 6 quart or larger slow cooker |
 
-  <br><br>
+  <br/>
 Instructions: |    
 ----------- | -
 Brown the meat. |
@@ -33,12 +33,12 @@ Cover with lid |
 Cook on LOW 5 to 6 hours (or on HIGH 3 to 4 hours) |
 While it is cooking stir the chili every 30 to 60 minutes |
 
-<br><br>
+<br/><br/>
 Options to Serve with the Chili |  
 ------------ | -
-Finely Shredded Cheese | 
-Corn Chips  | 
-Saltine Crackers | 
-Sour Cream | 
-<br><br>
+Finely Shredded Cheese |
+Corn Chips  |
+Saltine Crackers |
+Sour Cream |
+<br/><br/>
 *Enjoy*
