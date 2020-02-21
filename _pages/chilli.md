@@ -3,7 +3,7 @@ title: "Aaron's Award Winning Chili"
 permalink: /chili/
 ---
 
-I have placed 1st place 3 times at various cook offs. While placing 2nd and 3rd place multiple times along the way.  
+I have placed 1st place 3 times at various cook offs. While placing 2nd and 3rd multiple times along the way.  
 
 Makes 6 Quarts  
 
@@ -21,6 +21,7 @@ What you need: |
 4 Tbsp chili power |
 6 quart or larger slow cooker |
 
+  
 Instructions: |
 ----------- | -
 Brown the meat. |
@@ -31,13 +32,14 @@ Mix the ingredients together in the slow cooker |
 Cover with lid |
 Cook on LOW 5 to 6 hours (or on HIGH 3 to 4 hours) |
 While it is cooking stir the chili every 30 to 60 minutes |
-  
 
-Optional to Serve with the Chili |  
+
+Options to Serve with the Chili |  
 ------------ | -
 Finely Shredded Cheese |
 Corn Chips  |
 Saltine Crackers |
 Sour Cream |
+
 
 *Enjoy*
