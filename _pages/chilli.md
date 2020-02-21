@@ -31,7 +31,7 @@ Mix the ingredients together in the slow cooker |
 Cover with lid |
 Cook on LOW 5 to 6 hours (or on HIGH 3 to 4 hours) |
 While it is cooking stir the chili every 30 to 60 minutes |
-
+  
 
 Optional to Serve with the Chili |  
 ------------ | -
