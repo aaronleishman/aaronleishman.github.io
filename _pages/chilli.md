@@ -37,4 +37,6 @@ Makes 6 Quarts
 * Saltine Crackers
 * Sour Cream
 
-_Enjoy_
+_**Enjoy**_
+
+_This recipe was modified from this [recipe](https://www.myfoodandfamily.com/recipe/111270/slow-cooker-beef-chili)_
